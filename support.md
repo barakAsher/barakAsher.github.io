@@ -46,7 +46,7 @@ If the app stores any personal data, you can request deletion by emailing us at 
 Your privacy matters to us.  
 You can view our full privacy policy here:
 
-➡️ [Privacy Policy](privacy.md)
+➡️ [Privacy Policy](privacy)
 
 ---
 
